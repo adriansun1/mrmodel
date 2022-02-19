@@ -1,10 +1,10 @@
-name: <repository_name>
+name: testproject
 
 config-version: 2
 version: 1.0.0
 require-dbt-version: ">=1.0.1"
 
-profile: <author_name>
+profile: adrian
 
 model-paths: ["models"]     # paths with source code to compile
 analysis-paths: ["analysis"] # path with analysis files which are compiled, but not run

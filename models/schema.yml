@@ -1,7 +1,7 @@
 version: 2
 
 models:
-- name: <sample_model>
+- name: mrmodel
   config:
     materialized: table
   
